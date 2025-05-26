@@ -31,3 +31,10 @@ Este proyecto está pensado para ejecutarse en **Google Colab**, pero también p
 ---
 
 Desarrollado con ❤️ para propósitos educativos y de práctica en Machine Learning.
+
+Conclusion:
+Se aprendió a identificar y comprender componentes esenciales del ecosistema de Machine Learning.
+Este conocimiento no solo permite desarrollar modelos predictivos de forma más estructurada y eficiente, sino que también fortalece habilidades prácticas
+como la colaboración con equipos y la trazabilidad del código.
+Este aprendizaje nos ayuda a desarrollar soluciones inteligentes basadas en datos. Automatizar procesos y tomar decisiones más informadas. Integrarnos a proyectos de inteligencia artificial de forma profesional y escalable. Mantener un flujo de trabajo limpio y colaborativo, esencial en entornos reales de desarrollo.
+
